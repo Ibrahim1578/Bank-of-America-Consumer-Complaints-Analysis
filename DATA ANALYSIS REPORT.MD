@@ -4,7 +4,7 @@ Bank of America consumer complaints - Consumer satisfaction dashboard
 
 ## Project Discription
 
-This project analysis a synthetic dataset modelled after Bank of America Consumer Complaints from **2017-2023**, it focuses on understanding customers dissatisfaction, complaints pattern and service performance, in order to improve response process, reduce complaints and strengthen customers trust.
+This project analyses a synthetic dataset modelled after Bank of America Consumer Complaints from **2017-2023**, it focuses on understanding customers dissatisfaction, complaints pattern and service performance, in order to improve response process, reduce complaints and strengthen customers trust.
 
 
 ## Project Aim
@@ -98,7 +98,8 @@ The following business questions guided our analysis:
 
 ---
 
-## Expected Business Impact: The recommendations are focused on improving the quality of services provided by the bank in order to reduce customers complaints to the lowest possible and also improve on the response time to complaints from consumers, if any.
+## Expected Business Impact: 
+The recommendations are focused on improving the quality of services provided by the bank in order to reduce customers complaints to the lowest possible and also improve on the response time to complaints from consumers, if any.
 
 ---
 
